@@ -124,11 +124,11 @@
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS24.png" width="700"  title="hover text">
   </p>
-  <p align="center">
-  Select the security group created for the ELB I made earlier.
-</p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS25.png" width="700"  title="hover text">
+    <p align="center">
+  Select the security group created for the ELB I made earlier.
+</p>
   </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS26.png" width="700"  title="hover text">
