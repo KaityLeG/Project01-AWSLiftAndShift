@@ -93,18 +93,30 @@
   </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS17.png" width="700"  title="hover text">
+    </p>
+    <p align="center">
+    Here I made a target group for the load balancer to direct traffic to.
   </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS18.png" width="700"  title="hover text">
   </p>
+  <p align="center">
+  We set the protocol to HTTP: 8080. I selected the default VPC. I let the threshold with a timeout of 5 seconds. And have 30 secs between health checks.
+  </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS19.png" width="700"  title="hover text">
+  </p>
+  <p align="center">
+  Then I registered the ec2 instances created to this particular target group created.
   </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS20.png" width="700"  title="hover text">
   </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS22.png" width="700"  title="hover text">
+  </p>
+  <p align="center">
+  I created the load balancer. Made sure its itnernet facing to the public. Selected the subnets that I want the traffic to be within.
   </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS23.png" width="700"  title="hover text">
