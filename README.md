@@ -106,24 +106,27 @@
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS19.png" width="700"  title="hover text">
   </p>
-  <p align="center">
-  Then I registered the ec2 instances created to this particular target group created.
-  </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS20.png" width="700"  title="hover text">
-  </p>
+ <p align="center">
+  Then I registered the ec2 instances created to this particular target group created.
+  </p>  
+</p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS22.png" width="700"  title="hover text">
   </p>
+    <p align="center">
+  <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS23.png" width="700"  title="hover text">
   <p align="center">
   I created the load balancer. Made sure its itnernet facing to the public. Selected the subnets that I want the traffic to be within.
   </p>
-    <p align="center">
-  <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS23.png" width="700"  title="hover text">
-  </p>
+</p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS24.png" width="700"  title="hover text">
   </p>
+  <p align="center">
+  Select the security group created for the ELB I made earlier.
+</p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS25.png" width="700"  title="hover text">
   </p>
