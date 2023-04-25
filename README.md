@@ -151,27 +151,50 @@
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS29.png" width="700"  title="hover text">
   </p>
+  <p align="center">
+  Here is the web applciation up and running.
+  </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS30.png" width="700"  title="hover text">
+  </p>
+  <p align="center">
+  Here Im creating an Image to start with creating an auto scaling group for the application for high availilibity.
   </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS31.png" width="700"  title="hover text">
   </p>
+  <p align="center">
+  I selected the security gfroup for the applicaiton I created.
+  </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS32.png" width="700"  title="hover text">
+  </p>
+  <p align="center">
+  Selected the subnets I want to scale the ec2 instances in.
   </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS33.png" width="700"  title="hover text">
   </p>
+  <p align="center">
+  Here, I attached the target group to we created earlier to this for auto scaling group.
+  </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS34.png" width="700"  title="hover text">
+  </p>
+  Now here I specified the capapcity for the autoscaling group. I set it so that it stays at a minimum of two and have a maximum of 2 as well.
   </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS35.png" width="700"  title="hover text">
   </p>
+  <p align="center">
+  I added tags for this here
+  </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS36.png" width="700"  title="hover text">
   </p>
+  <p align="center">
+  Here you can see the healthiness of the instances inside the target group. 
+</p>
 
 
 
