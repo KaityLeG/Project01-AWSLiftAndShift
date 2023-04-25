@@ -133,11 +133,20 @@
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS26.png" width="700"  title="hover text">
   </p>
+  <p align="center">
+  Make sure to forward to the correct targert group with the registered ec2 instances. Make sure it is listening on port 80 and 443. HTTP and HTTPS.
+  </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS27.png" width="700"  title="hover text">
   </p>
+  <p align="center">
+  In the secure lisrtener settings I selected an ACM certificate I created for security of the web application.
+  </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS28.png" width="700"  title="hover text">
+  </p>
+  <p align="center">
+  On GoDaddy I used the DNS of the domain I created there and added the elb url to it so it can forward to this particular DNS name.
   </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/KaityLeG/Project01-AWSLiftAndShift/main/images/AWSLS29.png" width="700"  title="hover text">
